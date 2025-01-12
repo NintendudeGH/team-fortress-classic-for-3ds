@@ -5,7 +5,7 @@ DISCLAIMER: I will not be providing the tfc folder with all the stuff in it you 
 HOW TO INSTALL
 
 1. make sure you have xash installed on your sd card git link here https://github.com/masterfeizz/Xash3DS/releases
-2. Copy the "tfc" directory from your Half-Life installation to "your drive letter:/xash3d/" on your 3DS sd card.
+2. Copy the "tfc" folder from your Half-Life installationand paste it to "your drive letter:/xash3d/" on your 3DS sd card.
 3. put the extras.pak file inside "your drive letter:/xash3d/tfc".
 4. Delete the config.cfg file if present inside the tfc folder
 5. Launch it on your 3ds and have fun 
