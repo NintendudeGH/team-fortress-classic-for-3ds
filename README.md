@@ -1,4 +1,4 @@
-                                             Team fortress classic for 3ds port by nintendude
+Team fortress classic for 3ds port by nintendude
 ============================================================================================================================================
 
 DISCLAIMER: I will not be providing the tfc folder with all the stuff in it you have to buy tfc on steam and install it I DO NOT CONDONE TO VIDEO GAME PRIVACY AND AM NOT RESPONSIBLE FOR ANY PRIVACY YOU COMMIT TO 
