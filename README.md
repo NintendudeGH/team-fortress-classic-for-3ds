@@ -14,7 +14,6 @@ HOW TO USE LAN
 ===================================
 1.make sure your 3ds has a wi-fi connection
 2.make sure the wireless switch is flipped on if you have a o3ds/o3ds-xl
-
 3.¯\_(ツ)_/¯ keep troubleshooting you'll get there eventaully 
 
 updates
