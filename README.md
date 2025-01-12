@@ -12,9 +12,9 @@ HOW TO INSTALL
 
 HOW TO USE LAN
 
-1.make sure your 3ds has a wi-fi connection NOTE: it does not take use of the 3ds's advanced wi-fi features
+1.make sure your 3ds has a wi-fi connection
 2.make sure the wireless switch is flipped on if you have a o3ds/o3ds-xl
-3.¯\_(ツ)_/¯ keep troubleshooting you'll get there 
+3.¯\_(ツ)_/¯ keep troubleshooting you'll get there eventaully 
 
 updates
 ============================================================================================================================================
